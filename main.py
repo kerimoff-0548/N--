@@ -47,7 +47,7 @@ class Text():
         
 def main():
     length = int(input('Enter the length of the string: '))
-    filename = input('Enter the file name: ')
+    filename = 'text.txt'
 
     print('\n\n\tWait for the program to run...')
 
